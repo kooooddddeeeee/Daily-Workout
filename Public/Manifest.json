@@ -1,0 +1,13 @@
+{
+  "short_name": "DipBar",
+  "name": "DipBar 5-Day Workout",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07070C",
+  "theme_color": "#C8F542",
+  "orientation": "portrait"
+}

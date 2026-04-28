@@ -2,8 +2,18 @@
   "short_name": "DipBar",
   "name": "DipBar 5-Day Workout",
   "icons": [
-    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
-    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+    {
+      "src": "A4DF4894-77A7-4F56-9500-F51325CA536B.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "A4DF4894-77A7-4F56-9500-F51325CA536B.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
   ],
   "start_url": "/",
   "display": "standalone",
